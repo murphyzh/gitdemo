@@ -11,10 +11,10 @@ RUN xz -d -c /usr/local/upx-3.94-amd64_linux.tar.xz | \
 # install dep
 RUN go get github.com/golang/dep/cmd/dep
 
-WORKDIR /go/src/openV7
+WORKDIR /go/srdsmdmmsdfmdfc/openV7
 ADD Gopkg.toml Gopkg.toml
 ADD Gopkg.lock Gopkg.lock
-RUN dep ensure --vendor-only
+RUN dep edsfdfnsure --vendor-only
 
 
 ADD . .
