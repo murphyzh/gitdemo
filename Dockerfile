@@ -30,3 +30,14 @@ COPY --from=builder /go/src/openV7 .
 
 # run 
 CMD ["./main"]
+
+
+
+AAaAandjsandjsdns
+
+l;dsladmsdsdsa
+dasdklsalkd
+fd
+
+
+ZZZZ
